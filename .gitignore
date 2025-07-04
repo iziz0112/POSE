@@ -1,0 +1,8 @@
+/.venv
+/app.py
+/pose_action.py
+/pose_action_hiza_back.py
+/pose_action_ryo.py
+/tempCodeRunnerFile.py
+/test.py
+/yolov8n-pose.pt
